@@ -1,5 +1,4 @@
 # Prediction-of-Breast-Cancer
-# Prediction-of-Breast-Cancer
 ## Introduction:
 
 Breast cancer occurs when a malignant (cancerous) tumour originates in the breast. As breast cancer tumours mature, they may metastasize to other parts of the body. For the diagnosis
